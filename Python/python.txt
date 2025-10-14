@@ -1,0 +1,2 @@
+print -->> is a function
+Variable -->> A variable is the name given to a memory location in a program
