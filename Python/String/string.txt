@@ -1,0 +1,4 @@
+Strings -->>> String is the data type that stores a sequence of character
+
+Escape srquence character like : /n -> for new line 
+                                 /t -> for tab 
