@@ -1,0 +1,18 @@
+Use cases of NLP:
+-->> when we write the Gmail it suggest us the words and trie to auto complete the sentence . this auto completeion is done using NLP.
+
+Spam filtering in the gmail such as recognizing the words : hurry up before the offers ends 
+
+Language translation : using google translate we can translate one language to other language 
+
+chatbot 
+
+voice assistant : alexa , siri , google assistant
+
+Google use BERT to answer our query 
+with BERT model , we can better understand that some specific words carry the important part in the specific query
+whereas previously we missed the meaning , with general results 
+
+
+
+--->>> NLP is the field in computer science and AI that gives machines an ability to understand human language better and to assist in language related tasks. 
