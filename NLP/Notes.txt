@@ -1,0 +1,22 @@
+Trainging ML model for NLP problems take lage amount of data and lot of computer resources. 
+sometimes the small company can't able to afford it and sometimes they don't have large amount of data.
+big companies like google , facebook etc they stated trainig the models on the bases of the datasets they have 
+
+Freely Available Pretained Model are: 
+Fasttext -> facebook
+Tensorflow Hub -> Google
+GPT3 -> Largest Neural network -> OpenAI -> Spend 4 million dolloar just to train the model
+
+We can use these models with the technique called TRANSFER LEARNING use the model and fine tune it accordinly
+
+
+Open Source Ecosystem : -->> Freely Available Library
+python
+Spacy
+Gensim
+NLTK
+Scikit Learn 
+Tensorflow
+Pytourch 
+Hugging face
+
