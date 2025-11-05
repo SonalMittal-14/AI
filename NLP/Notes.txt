@@ -19,4 +19,3 @@ Scikit Learn
 Tensorflow
 Pytourch 
 Hugging face
-
