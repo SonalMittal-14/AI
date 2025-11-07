@@ -1,6 +1,4 @@
-Trainging ML model for NLP problems take lage amount of data and lot of computer resources. 
-sometimes the small company can't able to afford it and sometimes they don't have large amount of data.
-big companies like google , facebook etc they stated trainig the models on the bases of the datasets they have 
+  
 
 Freely Available Pretained Model are: 
 Fasttext -> facebook
